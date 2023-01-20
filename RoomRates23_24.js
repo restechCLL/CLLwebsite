@@ -31,7 +31,7 @@ const price_DoubleRoomPlus = 3753;
 const url_DoubleRoomPlus = "https://www.baylor.edu/cll/index.php?id=983471";
 
 // DOUBLE ROOM PRIVATE BATH
-const price_DoubleRoomPrivateBath = 4442;
+const price_DoubleRoomPrivateBath = 3;
 const url_DoubleRoomPrivateBath = "https://www.baylor.edu/cll/index.php?id=983463";
 
 // DOUBLE ROOM SHARED BATH
