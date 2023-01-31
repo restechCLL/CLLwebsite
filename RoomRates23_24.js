@@ -60,7 +60,7 @@ const url_SingleRoomPrivateBath = "https://www.baylor.edu/cll/index.php?id=98346
 
 // SINGLE ROOM SHARED BATH
 const price_SingleRoomSharedeBath = 5080;
-const url_SingleRoomSharedBath = "https://www.baylor.edu/cll/index.php?id=983476";
+const url_SingleRoomSharedBath = "https://www.baylor.edu/cll/index.php?id=987331";
 
 // SINGLE SUITE SHARED BATH
 const price_SingleSuiteSharedBath = 4950;
@@ -81,6 +81,10 @@ const url_TripleEfficiency = "https://www.baylor.edu/cll/index.php?id=983480";
 // TRIPLE ROOM SHARED BATH
 const price_TripleRoomSharedBath = 3670;
 const url_TripleRoomSharedBath = "https://www.baylor.edu/cll/index.php?id=983467";
+
+// TRIPLE ROOM PRIVATE BATH
+const price_TripleRoomPrivateBath = 3850;
+const url_TripleRoomPrivateBath = "https://www.baylor.edu/cll/index.php?id=983467";
 
 
 
