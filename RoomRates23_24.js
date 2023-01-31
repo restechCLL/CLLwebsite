@@ -58,6 +58,10 @@ const url_SingleRoom = "https://www.baylor.edu/cll/index.php?id=983468";
 const price_SingleRoomPrivateBath = 5660;
 const url_SingleRoomPrivateBath = "https://www.baylor.edu/cll/index.php?id=983460";
 
+// SINGLE ROOM SHARED BATH
+const price_SingleRoomSharedeBath = 5080;
+const url_SingleRoomSharedBath = "https://www.baylor.edu/cll/index.php?id=983476";
+
 // SINGLE SUITE SHARED BATH
 const price_SingleSuiteSharedBath = 4950;
 const url_SingleSuiteSharedBath = "https://www.baylor.edu/cll/index.php?id=983476";
