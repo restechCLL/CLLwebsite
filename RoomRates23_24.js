@@ -46,6 +46,10 @@ const url_DoubleRoomSharedBathPlus = "https://www.baylor.edu/cll/index.php?id=98
 const price_DoubleSuiteSharedBath = "Coming Soon";
 const url_DoubleSuiteSharedBath = "https://www.baylor.edu/cll/index.php?id=983477";
 
+// DOUBLE ROOM POD BATH
+const price_DoubleRoomPodBath = "Coming Soon";
+const url_DoubleRoomPodBath = "https://www.baylor.edu/cll/index.php?id=987364";
+
 // ONE BEDROOM SUITE
 const price_OneBedroomSuite = "Coming Soon";
 const url_OneBedroomSuite = "";
