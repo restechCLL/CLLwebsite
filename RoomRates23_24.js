@@ -3,7 +3,7 @@
 /////////////////////////////////////////////
 
 // APARTMENT 2 BEDROOMS
-const price_apt2Bed = 5260;
+const price_apt2Bed = "Coming Soon";
 const url_apt2Bed = "https://www.baylor.edu/cll/index.php?id=983475";
 
 // APARTMENT 3 BEDROOMS
