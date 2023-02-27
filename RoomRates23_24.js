@@ -3,15 +3,15 @@
 /////////////////////////////////////////////
 
 // APARTMENT 2 BEDROOMS
-const price_apt2Bed = "Coming Soon";
+const price_apt2Bed = "$5,520";
 const url_apt2Bed = "https://www.baylor.edu/cll/index.php?id=983475";
 
 // APARTMENT 3 BEDROOMS
-const price_apt3Bed = "Coming Soon";
+const price_apt3Bed = "$5,040";
 const url_apt3Bed = "https://www.baylor.edu/cll/index.php?id=983474";
 
 // APARTMENT 4 BEDROOMS
-const price_apt4Bed = "Coming Soon";
+const price_apt4Bed = "$4,120";
 const url_apt4Bed = "https://www.baylor.edu/cll/index.php?id=983473";
 
 // APARTMENT DOUBLE GOLD
