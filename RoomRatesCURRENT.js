@@ -39,7 +39,7 @@ const price_DoubleRoomSharedBath = "$4,410 per semester";
 const url_DoubleRoomSharedBath = "https://www.baylor.edu/cll/index.php?id=983459";
 
 // DOUBLE ROOM SHARED BATH PLUS
-const price_DoubleRoomSharedBathPlus = "$4,560 per semesters";
+const price_DoubleRoomSharedBathPlus = "$4,560 per semester";
 const url_DoubleRoomSharedBathPlus = "https://www.baylor.edu/cll/index.php?id=983472";
 
 // DOUBLE SUITE SHARED BATH
